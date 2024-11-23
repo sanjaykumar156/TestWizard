@@ -36,12 +36,12 @@ public class BaseClass {
 		}
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-		driver.get(rb.getString("url"));
+		driver.get(rb.getString("url1"));
 	}
-	@AfterClass
+	@AfterSuite
 	public void tearout() {
 		
-            driver.quit();
+            //driver.quit();
         
         }
     //}
