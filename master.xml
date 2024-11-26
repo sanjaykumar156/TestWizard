@@ -7,9 +7,9 @@
     <test name="Test1">
         <classes>
       <class name="TestCases.LoginClass"/>
-       <!--<class name="TestCases.OfferClass"/>
       <class name="TestCases.Invalidcredentialsclass"/>
-      <class name="TestCases.Retesting"/> -->
+      <!--class name="TestCases.OfferClass"/>
+      <class name="TestCases.Retesting"/>-->
         </classes>
     </test>
 </suite>

@@ -28,7 +28,7 @@
           <version>3.5.2</version>
           <configuration>
 			   <suiteXmlFiles>
-				   <suiteXmlFile>minor.xml</suiteXmlFile>
+				   <suiteXmlFile>master.xml</suiteXmlFile>
 			   </suiteXmlFiles>
 			
 		  </configuration>
